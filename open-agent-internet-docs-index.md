@@ -22,6 +22,10 @@ This directory contains the current working drafts for the Open Agent Internet n
   Draft profile README for the GitHub organization.
 - `open-agent-internet-repo-readme.md`
   Draft README for the flagship `open-agent-internet` repository.
+- `CONTRIBUTING.md`
+  Public contribution guide for the `open-agent-internet` repository.
+- `ROADMAP.md`
+  Public roadmap for the front door repository and its next milestones.
 
 ## Reference Project
 

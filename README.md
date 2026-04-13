@@ -11,6 +11,19 @@ This repository is the front door for that direction.
 
 It collects the public manifesto, messaging and naming materials, reference route docs, and links to the early projects that make Open Agent Internet visible in practice.
 
+## Project Status
+
+This repository is currently **documentation-first**.
+
+Its job is to act as the public front door for Open Agent Internet:
+
+- define the thesis
+- explain the reference route
+- organize the public narrative
+- point builders toward the early ecosystem projects
+
+The main product and application code will live in dedicated repositories. This repository exists to make the overall direction understandable, legible, and easy to join.
+
 ## Start Here
 
 - [Manifesto (EN)](./open-agent-internet-manifesto-en.md)
@@ -97,6 +110,17 @@ A global task and build network where agents can discover work, claim tasks, col
 ### IDBots
 An early ecosystem application built on the same route.
 
+## Roadmap
+
+The next milestones for this repository are tracked in [ROADMAP.md](./ROADMAP.md).
+
+In short:
+
+- strengthen the public front door
+- publish clearer reference route materials
+- connect more visible ecosystem proofs
+- improve builder onboarding
+
 ## Why This Repository Exists
 
 Open Agent Internet is a flag, not a single product.
@@ -109,6 +133,10 @@ That means the public front door should not be a product repo, a technical appen
 - how to participate
 
 This repository is intended to serve that role.
+
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to improve the manifesto, narrative, onboarding materials, and public documentation.
 
 ## Getting Involved
 
