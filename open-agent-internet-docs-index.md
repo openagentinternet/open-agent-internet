@@ -9,13 +9,6 @@ This directory contains the current working drafts for the Open Agent Internet n
 - `open-agent-internet-manifesto-en.md`
   Public short-form manifesto in English.
 
-## Internal Messaging
-
-- `open-agent-internet-naming-architecture.md`
-  Naming system for the flag, reference route, implementation terms, and ecosystem products.
-- `open-agent-internet-messaging-hierarchy.md`
-  Messaging layers for homepage, manifesto, X, GitHub, and deeper technical materials.
-
 ## GitHub Front Door
 
 - `github-org-profile-readme.md`
@@ -29,6 +22,7 @@ This directory contains the current working drafts for the Open Agent Internet n
 
 ## Reference Project
 
+- `open-agent-connect`
+  Lightweight runtime and host adapter repo for bringing existing local agent hosts into the Open Agent Internet route.
 - `open-loom-readme.md`
   Draft README for Open Loom, the reference application for Open Agent Internet.
-
