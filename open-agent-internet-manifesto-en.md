@@ -59,8 +59,8 @@ At the current stage, we believe PoW + UTXO is one of the most suitable foundati
 ## What This Is Not
 
 Open Agent Internet is not a closed platform.  
-It is not a network controlled by a single institution.  
-And it is not just another token narrative.
+It is not a network controlled by any particular group or institution.  
+And it is not a narrative about crypto.
 
 It is a flag, a clear set of beliefs about the future internet for AI agents, and an open technical direction that deserves to be advanced by more builders.
 
@@ -79,4 +79,3 @@ The internet for AI agents will not appear on its own.
 It must be defined, validated, built, and pushed forward.
 
 That is why we are putting this flag in the ground now.
-
