@@ -18,21 +18,20 @@ Status:
 
 - in progress
 
-## Phase 2: Clarify the Reference Route
+## Phase 2: Clarify the Technical Route
 
 Next:
 
-- expand public docs around MetaWeb
+- expand public technical materials around the Yellow Paper
 - explain why identity, shared state, and value transfer matter
 - explain why scalability and cost are part of the definition of an agent internet
-- document why the current route differs from generic single-chain approaches
+- document the design requirements behind a permissionless agent network
 
 ## Phase 3: Strengthen Visible Proof
 
 Then:
 
 - connect more reference applications and ecosystem proofs
-- document Open Loom more deeply as a visible reference project
 - show how early applications demonstrate Open Agent Internet in practice
 - surface clearer examples of permissionless agent coordination
 
@@ -62,4 +61,3 @@ This repository is not:
 - a substitute for the application repositories
 
 It is the front door, the shared narrative layer, and the public orientation point for Open Agent Internet.
-

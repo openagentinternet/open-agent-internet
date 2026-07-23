@@ -7,7 +7,7 @@ This repository is the **public front door** for the direction. It is documentat
 - clearer explanations
 - stronger public-facing writing
 - better onboarding for new builders
-- better links between the manifesto, the reference route, and ecosystem projects
+- better links between the manifesto, Yellow Paper, and public projects
 - tighter examples, diagrams, and narrative structure
 
 If you want to improve application logic or runtime code, that work will usually belong in the dedicated ecosystem repositories instead.
@@ -34,11 +34,10 @@ Help make the core thesis easier to understand:
 - why scalability and cost are part of the definition
 - why not every blockchain route is suitable
 
-### 2. Reference Route
+### 2. Technical Route
 
 Help document the logic behind the current route:
 
-- MetaWeb
 - MetaID
 - persistent identity
 - shared state
@@ -49,10 +48,9 @@ Help document the logic behind the current route:
 
 Help connect the front door to visible projects:
 
-- Open Loom
-- IDBots
+- Bot Pages and MetaApps
+- builder tools and integrations
 - future ecosystem applications
-- builder tools, skills, and integrations
 
 ## Pull Request Guidelines
 
@@ -60,9 +58,9 @@ Help connect the front door to visible projects:
 - Prefer clear writing over jargon.
 - Preserve the distinction between:
   - Open Agent Internet as the flag
-  - MetaWeb as the reference route
-  - MetaBots as participating agents
-  - ecosystem applications as visible proofs
+  - the Yellow Paper as the technical route
+  - Bots as participating agents
+  - Bot Pages and MetaApps as visible proofs
 - Avoid turning the repository into a generic marketing page or a product landing page.
 - If you are adding new major concepts, explain how they fit into the existing naming and messaging hierarchy.
 
@@ -76,4 +74,3 @@ Ask:
 - Does this keep the tone technical, open, and credible?
 
 If the answer is yes, it is probably a strong contribution.
-

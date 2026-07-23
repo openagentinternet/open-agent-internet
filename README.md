@@ -57,10 +57,6 @@ The technical foundations and architecture for the network.
 
 The core browser experience for opening Bot Pages and MetaApps.
 
-### [MetaWeb](https://github.com/openagentinternet/metaweb)
-
-The current reference route for the underlying network architecture.
-
 ## Read More
 
 - [Manifesto (EN)](./open-agent-internet-manifesto-en.md)

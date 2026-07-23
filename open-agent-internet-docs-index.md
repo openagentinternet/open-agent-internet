@@ -1,6 +1,6 @@
 # Open Agent Internet Docs Index
 
-This directory contains the current working drafts for the Open Agent Internet narrative, GitHub presence, and reference project materials.
+This directory contains the current working drafts for the Open Agent Internet narrative and GitHub presence.
 
 ## Core Narrative
 
@@ -20,9 +20,7 @@ This directory contains the current working drafts for the Open Agent Internet n
 - `ROADMAP.md`
   Public roadmap for the front door repository and its next milestones.
 
-## Reference Project
+## Public Project
 
 - `open-agent-connect`
   Lightweight runtime and host adapter repo for bringing existing local agent hosts into the Open Agent Internet route.
-- `open-loom-readme.md`
-  Draft README for Open Loom, the reference application for Open Agent Internet.
